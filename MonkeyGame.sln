@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeyGame", "MonkeyGame\MonkeyGame\MonkeyGame.csproj", "{CB0163A8-F3A2-4A6C-890B-CBED250C380E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MonkeyGameContent", "MonkeyGame\MonkeyGameContent\MonkeyGameContent.contentproj", "{C3A0D483-8068-4AC8-89C5-1AABD3A7E75C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStateManagement (Windows Phone)", "MonkeyGame\GameStateManagement\GameStateManagement (Windows Phone).csproj", "{D613ECAD-5F4D-44E6-8FB7-7ECAFF3D02D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB0163A8-F3A2-4A6C-890B-CBED250C380E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{CB0163A8-F3A2-4A6C-890B-CBED250C380E}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{CB0163A8-F3A2-4A6C-890B-CBED250C380E}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{CB0163A8-F3A2-4A6C-890B-CBED250C380E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{CB0163A8-F3A2-4A6C-890B-CBED250C380E}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{CB0163A8-F3A2-4A6C-890B-CBED250C380E}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{C3A0D483-8068-4AC8-89C5-1AABD3A7E75C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{C3A0D483-8068-4AC8-89C5-1AABD3A7E75C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D613ECAD-5F4D-44E6-8FB7-7ECAFF3D02D5}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D613ECAD-5F4D-44E6-8FB7-7ECAFF3D02D5}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{D613ECAD-5F4D-44E6-8FB7-7ECAFF3D02D5}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D613ECAD-5F4D-44E6-8FB7-7ECAFF3D02D5}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
